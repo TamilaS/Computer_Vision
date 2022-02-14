@@ -1,1 +1,3 @@
-# Skakova_Esmaeeli_INM705
+# INM701-Coursework
+
+## Postgraduate students: Tamila Skakova and Elbaraa Elalami.
